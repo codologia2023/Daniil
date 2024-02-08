@@ -1,0 +1,12 @@
+body {
+  font-size: 11pt;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: rgb(197, 28, 28);
+color: rgb(181, 224, 251);  
+}
+h1 {
+color: rgb(200, 243, 255);
+font-size: 24pt;
+font-family: 'Times New Roman', Times, serif;
+font-weight: normal
+}
